@@ -53,7 +53,5 @@ Modelling Consumer Response to Marketing. classify which customers will respond 
  - Significant Coefficient Histogram for L1
 
 ## Author
-- Yiran Jing
-- Haonan Zhang
-- Chenxi Zhou 
-- Yunfeng Guo
+- Saad Ahmed
+- Maha Siraj
